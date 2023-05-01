@@ -1,5 +1,3 @@
-Sure, here's the same README in Markdown format:
-
 # Vehicle Catalog
 
 Vehicle Catalog is a web application that allows users to view a list of vehicles and their details, as well as search and filter the list based on various criteria.
@@ -21,13 +19,6 @@ Once the application is running, you can use the following features:
 - Click on a vehicle to view its details.
 - Use the search box to filter the list by make, model, or year.
 - Use the dropdown menus to filter the list by make, model, or year.
-
-## Technologies Used
-
-- React: A JavaScript library for building user interfaces.
-- TypeScript: A superset of JavaScript that adds type annotations and other features.
-- CSS: A stylesheet language used for styling web pages.
-- Axios: A JavaScript library used for making HTTP requests.
 
 ## Contributing
 
